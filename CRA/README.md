@@ -1,4 +1,12 @@
-# Template base Create React App
+# Create React App
+
+Template base para projetos creat-react-app
+
+## Passo a passo
+
+1. Instale as dependências: `npm install`
+2. Inicie o servidor: `npm start`
+3. Realize o build para gerar o bundle: `npm run build`
 
 ## Estrutura
 
@@ -22,9 +30,3 @@
 - [`package.json`](./package.json)
 - [`README.md`](./README.md)
 - [`tsconfig.json`](./tsconfig.json)
-
-## Passo a passo
-
-1. Instale as dependências: `npm install`
-2. Inicie o servidor: `npm start`
-3. Realize o build para gerar o bundle: `npm run build`

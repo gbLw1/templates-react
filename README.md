@@ -2,6 +2,6 @@
 
 ## Escolha o template
 
-- [x] [CRA](./CRA)
+- [x] [CRA](./CRA/README.md)
 - [ ] Vite
 - [ ] Next.js
