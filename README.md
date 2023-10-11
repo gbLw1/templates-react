@@ -4,9 +4,8 @@
 
 - [public](./base-template/public)
 - [src](./base-template/src)
-  - [assets](./base-template/src/assets)
-  - [contexts](./base-template/src/contexts)
   - [components](./base-template/src/components)
+  - [contexts](./base-template/src/contexts)
   - [hooks](./base-template/src/hooks)
   - [interfaces](./base-template/src/interfaces)
   - [pages](./base-template/src/pages)
