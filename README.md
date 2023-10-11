@@ -1,6 +1,6 @@
 # Templates base para projetos react
 
-- [x] CRA
+- [x] [CRA](./CRA)
 - [ ] Vite
 - [ ] Next.js
 
