@@ -30,6 +30,8 @@ Template base para projetos vite
 - [`index.html`](./index.html)
 - [`package-lock.json`](./package-lock.json)
 - [`package.json`](./package.json)
+- [`postcss.config.js`](./postcss.config.js)
+- [`tailwind.config.js`](./tailwind.config.js)
 - [`tsconfig.json`](./tsconfig.json)
 - [`tsconfig.node.json`](./tsconfig.node.json)
 - [`vite.config.ts`](./vite.config.ts)
