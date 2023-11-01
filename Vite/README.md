@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Template base para projetos vite
+Template base para projetos Vite com TailwindCSS.
 
 ## Passo a passo
 
@@ -26,6 +26,7 @@ Template base para projetos vite
   - [`vite-env.d.ts`](./src/vite-env.d.ts)
 - [`.eslintrc.cjs`](./.eslintrc.cjs)
 - [`.gitignore`](./.gitignore)
+- [`.prettierrc`](./.prettierrc)
 - [`README.md`](./README.md)
 - [`index.html`](./index.html)
 - [`package-lock.json`](./package-lock.json)
