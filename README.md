@@ -3,5 +3,5 @@
 ## Escolha o template
 
 - [x] [CRA](./CRA/README.md)
-- [ ] Vite
+- [x] [Vite](./Vite/README.md)
 - [ ] Next.js
